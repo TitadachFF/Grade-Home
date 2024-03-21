@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div className="navbar bg-base-100 border-b p-3 flex flex-col md:flex-row ">
       {/* Title */}
-      <div className="flex border mb-3 md:mb-0 md:mr-5 ">
+      <div className="flex  mb-3 md:mb-0 md:mr-5 ">
         <a className="text-red font-serif font-thin text-5xl border-r-2 border-gray-300 pr-4">
           SE
         </a>
